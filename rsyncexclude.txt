@@ -1,0 +1,47 @@
+- Temp/
+- Default User/
+- LocalService/
+- NetworkService/
+- My Music/
+- iTunes/
+- iTunes*/
+- Temporary Internet Files/
+- History.IE*/
+- *.tmp
+- *.mp3
+- *.MP3
+- *.m4a
+- *.M4A
+- *.mp3.*
+- *.wma
+- *.WMA
+- *.wmv
+- *.WMV
+- Windows/
+- Windows NT/
+- NTUSER.*
+- ntuser.*
+- qmgr*
+- UsrClass.*
+- SENDTO/
+- SendTo/
+- NETWORK/
+- *Floppy*.lnk
+- *Floppy*.LNK
+- catalog.wci/
+- Cookies/
+- COOKIES/
+- Symantec/
+- Start Menu/
+- *.lock
+- NetHood/
+- Crypto/
+- Google/
+- Cache/
+- Application Data/
+- Recent/
+- PrintHood/
+- Program Files/
+- Favorites/
+- Local Settings/
+- Templates/
